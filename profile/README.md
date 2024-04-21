@@ -4,7 +4,8 @@
 
 ## O que é o Thinkolab?
 
-Somos um grupo de amigos apaixonados por tecnologia, sempre em busca de aprender e inovar juntos. Aqui, nos reunimos para estudar novas tecnologias, testar ideias e experimentar diferentes abordagens. 
+- **Think + Lab = Laboratório de Idéias**: Nossa maior inspiração é a abundância de informação disponível na nova era em que vivemos, onde a tecnologia se torna uma forte aliada para qualquer um disposto a adquirir o néctar do conhecimento.
+- Somos um grupo de amigos apaixonados pelo que fazemos, sempre em busca de aprender e inovar juntos. Aqui, nos reunimos para estudar novas tecnologias, testar ideias e experimentar diferentes abordagens.
 
 ## Nossa Filosofia:
 
